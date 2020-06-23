@@ -8,7 +8,7 @@ The README.md file of this repository contains the more information on this data
 
 The tidyData.txt is a space supperated file containing data. Thr first line contains the Variables and the other lines contains the Values.
 
-#Variables
+# Variables
 
 Each row contains 79 averaged signal measurements for each subject and activity.
 There are total 81 variables as shown below:
@@ -30,7 +30,7 @@ There are total 81 variables as shown below:
       - `STANDING` : The subject was standing
       - `LAYING` : The subject was lying
     
-###Average of Measurements
+### Average of Measurements
 
 - Average time-domain body acceleration in X, Y and Z directions:
     - `timeDomainBodyAccelerometerMeanX`
@@ -155,7 +155,7 @@ There are total 81 variables as shown below:
 - Weighted average of the frequency components of frequency-domain body angular velocity jerk magnitude in X, Y and Z directions:
     - `frequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency`
 
-#Transformations
+# Transformations
 - The source file containing the data is:
 
     <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
