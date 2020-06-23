@@ -1,7 +1,4 @@
----
-title: "CodeBook"
-output: html_document
----
+
 
 ## Code Book for Getting and Cleaning Data Coursera Project
 
@@ -9,7 +6,7 @@ The Data set that this code book describes is located in [tidyData.txt](https://
 
 The README.md file of this repository contains the more information on this data set. 
 
-The tidyData.txt is a space supperated file containing data. Thr first line contains the [Variables](#Variables)and the other lines contains the Values.
+The tidyData.txt is a space supperated file containing data. Thr first line contains the Variables and the other lines contains the Values.
 
 #Variables
 
